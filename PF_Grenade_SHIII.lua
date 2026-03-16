@@ -7,15 +7,15 @@ grenadeData['rbxassetid://115486373217832'] = {Name='M67 FRAG', BlastRadius=30, 
 grenadeData['rbxassetid://130715368011981'] = {Name='MK2 FRAG', BlastRadius=28, KillRadius=23, FuseTime=4}
 grenadeData['rbxassetid://110699405244834'] = {Name='DYNAMITE', BlastRadius=33, KillRadius=29, FuseTime=5}
 grenadeData['rbxassetid://80065411824420'] = {Name='DYNAMITE-3', BlastRadius=37, KillRadius=33, FuseTime=5}
-grenadeData['rbxassetid://'] = {Name='M24 STICK', BlastRadius=30, KillRadius=17, FuseTime=4.5}
-grenadeData['rbxassetid://'] = {Name='M26 FRAG', BlastRadius=30, KillRadius=20, FuseTime=4.4}
-grenadeData['rbxassetid://'] = {Name='M560 MINI', BlastRadius=35, KillRadius=21, FuseTime=5}
-grenadeData['rbxassetid://'] = {Name='V40 MINI', BlastRadius=37, KillRadius=16, FuseTime=4}
-grenadeData['rbxassetid://'] = {Name='ROLY HG', BlastRadius=30, KillRadius=22, FuseTime=5}
-grenadeData['rbxassetid://'] = {Name='RGD-5 HE', BlastRadius=52, KillRadius=22, FuseTime=3.8}
-grenadeData['rbxassetid://'] = {Name='SEMTEX', BlastRadius=40, KillRadius=26, FuseTime=4}
-grenadeData['rbxassetid://'] = {Name='PB GRENADE', BlastRadius=42, KillRadius=40, FuseTime=7}
-grenadeData['rbxassetid://'] = {Name='BUNDLE CHARGE', BlastRadius=50, KillRadius=48, FuseTime=4.5}
+grenadeData['rbxassetid://117031955489991'] = {Name='M24 STICK', BlastRadius=30, KillRadius=17, FuseTime=4.5}
+grenadeData['rbxassetid://75352201928166'] = {Name='M26 FRAG', BlastRadius=30, KillRadius=20, FuseTime=4.4}
+grenadeData['rbxassetid://130375815890697'] = {Name='M560 MINI', BlastRadius=35, KillRadius=21, FuseTime=5}
+grenadeData['rbxassetid://138740231502592'] = {Name='V40 MINI', BlastRadius=37, KillRadius=16, FuseTime=4}
+grenadeData['rbxassetid://126781349308699'] = {Name='ROLY HG', BlastRadius=30, KillRadius=22, FuseTime=5}
+grenadeData['rbxassetid://112296354272570'] = {Name='RGD-5 HE', BlastRadius=52, KillRadius=22, FuseTime=3.8}
+grenadeData['rbxassetid://118140965706714'] = {Name='SEMTEX', BlastRadius=40, KillRadius=26, FuseTime=4}
+grenadeData['rbxassetid://136737867397437'] = {Name='PB GRENADE', BlastRadius=42, KillRadius=40, FuseTime=7}
+grenadeData['rbxassetid://123204164966116'] = {Name='BUNDLE CHARGE', BlastRadius=50, KillRadius=48, FuseTime=4.5}
 
 grenadeData['default'] = {Name='GRENADE', BlastRadius=30, KillRadius=22, FuseTime=5}
 
